@@ -1,0 +1,224 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+}
+
+.head-tag{
+background-color: skyblue;
+}
+
+.district{
+    text-align: center;
+    color: green;
+}
+
+.head-tag a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 8px;
+    margin-right: 80px;
+}
+
+ /* .district{
+    border: 2px solid black;
+    margin-top: 7px;
+    margin-left: 1%;
+}
+
+.p-box{
+   border:3px solid white;
+   width: 22%;
+   float:left;
+   margin-left: 10px;
+   height: 17em;
+   padding: 5px;
+   background-color: #cccccc;
+}
+
+.p-box h3{
+    
+    text-align: center;
+}
+
+.p-box p{
+line-height: 1.25em;
+text-align: justify;
+}
+
+.p-box a{
+   text-decoration: none;
+   color: red;
+} */ 
+/* 
+.t{
+    border:3px solid white;
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-left:3%;
+    margin-right:;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.k{
+    border:3px solid white;
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-left:2%;
+    margin-right: 2%;
+    height: 55em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.p{
+    border:3px solid white;
+    text-align:center;
+    width: 30%;
+    float: left;
+    margin-right:2%;
+    height: 45em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.A{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.ko{
+    border:3px solid white;
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-left:5%;
+    height: 17em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.i{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.koc{
+    border:3px solid white;
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-left:10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.th{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.pa{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.m{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.koz{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.w{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.kan{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.kas{
+    border:3px solid white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 35em;
+    padding: 5px;
+    background-color: #cccccc;
+} */
+
+
+ .tourism{
+    border:3px solid black; 
+    text-align: center;
+    width: 28%;
+    float: left;
+    margin-left:3%;
+    margin-right:2%;
+    height: 65em;
+    padding: 5px;
+    background-color: #cccccc;
+} 

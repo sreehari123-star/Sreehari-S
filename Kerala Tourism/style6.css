@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+}
+
+.head-tag{
+background-color: skyblue;
+}
+
+.tourist-spots{
+    text-align:center;
+    color: green;
+}
+
+
+.tourist{
+    border:3px solid white;
+    text-align: center;
+    width: 28%;
+    float: left;
+    margin-left:3%;
+    margin-right:2%;
+    height: 38em;
+    padding: 5px;
+    background-color: #cccccc;
+    margin-bottom: 1%;
+}
+
+.t img{
+    float:right;
+    margin-right: 1%;
+    height: 25em;
+    width: 25em;
+}
+
+.t h5{
+   text-align: center;
+}
+
+.t p{
+    text-align:justify;
+    margin-left: 1%;
+    color: black;
+}
+
+.footer{
+    background-color:skyblue;
+    color: black;
+    height: 13em;
+    margin-top:98%;
+    margin-bottom: 0;
+}
+
+
+ .footer p{
+    text-align:center;
+    height: 7em;
+    margin-top: 2em;
+} 
+
+
+.footer img{
+    float: right;
+    height: 3em;
+    width:5em;
+    margin-left:1em;
+    margin-top: 1em;
+    margin-right: 3em;
+
+}

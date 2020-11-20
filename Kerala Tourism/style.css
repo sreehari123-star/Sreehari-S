@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+  
+body{
+    background-size: cover;
+}
+
+
+header{
+    background-color:white;
+    height: 7em;     
+}
+
+
+.head-tag{
+    background-color: skyblue;
+}
+
+
+.head-tag a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 8px;
+    margin-right: 80px;
+}
+
+.head-tag a:hover{
+    color:grey;
+    background-color: teal;
+    transition: 0.5s ease-in-out;
+}
+
+
+.p{
+  color: white;  
+  text-align: center;
+}
+
+.Mymargin{
+    margin: 25px;
+    margin-left: 9%;
+}
+
+img{
+    margin-right: 10%;
+    margin-top: 15px;
+}
+
+.carousel{
+margin-right: 20px;
+
+}
+
+ /* .container{
+    border: 2px solid black;
+    margin-top: 7px;
+    margin-left: 1%;
+} 
+
+.p-box{
+    border: 2px solid white;
+    width: 22%;
+    float: left;
+    margin-left: 10px;
+    height: 17em;
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+.p-box h3{
+    text-align: center;
+
+}
+
+.p-box p{
+    line-height: 1.25em;
+    text-align: justify;
+
+} */
+
+
